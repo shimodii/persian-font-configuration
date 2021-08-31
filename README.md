@@ -9,8 +9,13 @@ for install you should do these steps:
     ./configure.sh
   
 # ScreenShot from font shape
-<img src="https://github.com/am-shm/persian-font-configuration/blob/main/screen-shot.png">
+<center>
+    <img src="https://github.com/am-shm/persian-font-configuration/blob/main/screen-shot.png">
+</center>
+
+
 # درباره 
+<br>
 این اسکریپت (به شدت ساده) این امکان رو به شما میده که فونت خانواده ی سنس رو با وزیر عوض کنین و از تخمی بودن ؛) سیستمتون کمی کم کنید
 
 # مراحل پیاده سازی
