@@ -5,6 +5,7 @@ this script do some config to change your persian font to vazir
 for install you should do these steps:
 
     git clone https://github.com/am-shm/persian-font-configuration.git
+    cd persian-font-configuration
     chmod +x configure.sh
     ./configure.sh
   
