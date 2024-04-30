@@ -1,0 +1,3 @@
+- [ ] adding some other free persian fonts
+- [ ] adding menu for choosing font for configuration
+- [ ] adding some new english fonts to configure english font either...
